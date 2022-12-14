@@ -2,7 +2,7 @@
   "description": "Frontend webserver package for Kubeflow Metadata",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.18.0",
     "node-fetch": "^2.1.2"
   },
